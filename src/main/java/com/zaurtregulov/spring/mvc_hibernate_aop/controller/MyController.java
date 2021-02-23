@@ -60,7 +60,5 @@ public class MyController {
         employeeService.deleteEmployee(id);
 
         return "redirect:/";
-//        check
-
     }
 }
